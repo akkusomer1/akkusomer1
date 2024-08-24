@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Akkus</h1>
-<h3 align="center">Backend Developer | .Net Architect</h3>
+<h3 align="center">Backend Developer | .Net Architecture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkusomer1&label=Profile%20views&color=0e75b6&style=flat" alt="akkusomer1" /> </p>
 
