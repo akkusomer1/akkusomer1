@@ -11,10 +11,7 @@
 
 .NET ekosisteminde **4+ yıllık** deneyime sahip bir Backend Developer'ım. Yüksek trafikli ve veri yoğun sistemlerde performans, güvenlik ve sürdürülebilir mimari tasarım odaklı, ölçeklenebilir çözümler geliştiriyorum.
 
-- 🔭 Şu an **Batı Group Of Shipping Companies**'de Kurumsal Lojistik & ERP sistemleri üzerinde çalışıyorum
-- 🌱 Aktif olarak **AI/LLM Engineering**, **Semantic Kernel** ve **NLP** alanlarını araştırıyorum
-- 💡 **Microservice**, **DDD**, **CQRS** ve **Clean Architecture** ile production sistemleri tasarlıyorum
-- 📫 Bana ulaşın: **akkusomer156@gmail.com**
+- 📫 Bana ulaşın: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="57363c3c2224383a322566626117303a363e3b7934383a">[email&#160;protected]</a>**
 
 <br/>
 
@@ -35,7 +32,7 @@
 
 ### ⚙️ Backend / .NET
 <p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://www.svgrepo.com/show/376369/dotnet.svg" alt=".NET" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="ASP.NET Core" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
@@ -69,9 +66,9 @@
 
 ### 🤖 AI / ML & LLM Engineering
 <p align="left">
-  <a href="https://openai.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="Hugging Face" width="40" height="40"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ollama/ollama-icon.svg" alt="Ollama" width="40" height="40"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://www.svgrepo.com/show/306500/openai.svg" alt="OpenAI" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
+  <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" alt="Ollama" width="40" height="40"/></a>
 </p>
 
 ### 🎨 Frontend
@@ -115,14 +112,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akkusomer1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akkusomer1" />
-</p>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=akkusomer1&show_icons=true&locale=en&theme=tokyonight" alt="akkusomer1" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkusomer1&theme=tokyonight" alt="akkusomer1" />
 </p>
