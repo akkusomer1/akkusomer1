@@ -11,7 +11,7 @@
 
 .NET ekosisteminde **4+ yıllık** deneyime sahip bir Backend Developer'ım. Yüksek trafikli ve veri yoğun sistemlerde performans, güvenlik ve sürdürülebilir mimari tasarım odaklı, ölçeklenebilir çözümler geliştiriyorum.
 
-- 📫 Bana ulaşın: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="57363c3c2224383a322566626117303a363e3b7934383a">[email&#160;protected]</a>**
+- 📫 Bana ulaşın: **[akkusomer156@gmail.com](mailto:akkusomer156@gmail.com)**
 
 <br/>
 
@@ -115,3 +115,4 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=akkusomer1&show_icons=true&locale=en&theme=tokyonight" alt="akkusomer1" />
 </p>
+
