@@ -113,15 +113,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akkusomer1&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" height="180" alt="akkusomer1 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akkusomer1&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="akkusomer1 top langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkusomer1&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="akkusomer1 streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akkusomer1&theme=tokyonight&no-frame=true&row=1&column=6" alt="akkusomer1 trophies" />
-</p>
 
